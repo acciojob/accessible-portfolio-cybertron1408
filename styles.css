@@ -1,2 +1,23 @@
+/* Add your styles here */
+body {
+    font-family: Arial, sans-serif;
+}
 
-/* Your CSS Code here. */
+header, nav, main, footer {
+    margin: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+}
